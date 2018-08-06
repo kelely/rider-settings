@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\test\Zeus.DataManagePlatform.Tests\Directories\Classifies\DirectoryClassifyTests_GetAll.cs'" />
-    <option name="defaultScopeName" value="File '...\test\Zeus.DataManagePlatform.Tests\Directories\Classifies\DirectoryClassifyTests_GetAll.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\test\Zeus.DataManagePlatform.Tests\Directories\Classifies\DirectoryClassifyTests_GetAll.cs'" />
+    <option name="customScope" value="File '...\src\Zeus.DataManagePlatform.Application\Directories\Validators\CreateDirectoryClassifyInputValidator.cs'" />
+    <option name="defaultScopeName" value="File '...\src\Zeus.DataManagePlatform.Application\Directories\Validators\CreateDirectoryClassifyInputValidator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\Zeus.DataManagePlatform.Application\Directories\Validators\CreateDirectoryClassifyInputValidator.cs'" />
   </component>
 </application>

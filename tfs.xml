@@ -1,0 +1,27 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="https://tfs.careerelite.net/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <password>df9adf9adf9adf9adf9adf9a</password>
+              <username>yangqian</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+      <server uri="https://tfs.careerelite.net/DefaultCollection/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <domain>WIN-62NOJK7TH2A</domain>
+              <password>df9adf9adf9adf9adf9adf9a</password>
+              <username>yangqian</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>
